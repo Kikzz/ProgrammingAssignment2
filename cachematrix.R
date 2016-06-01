@@ -39,4 +39,3 @@ cacheSolve <- function(x, ...) {
         x$setinvert(m)
         m
 }
-
